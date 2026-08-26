@@ -1,16 +1,24 @@
-## Hi there 👋
+# ROOK XI
 
-<!--
-**ROOK-XI/ROOK-XI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Security • Infrastructure • CTF
 
-Here are some ideas to get you started:
+> **Building. Breaking. Learning.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Rook** — exploring cybersecurity through hands-on labs, infrastructure, security research, and CTFs.
+
+### Focus
+
+- 🔐 Cybersecurity & security research
+- 🏗️ Infrastructure & homelab engineering
+- 🚩 Capture the Flag
+- 🐧 Linux
+- 🌐 Networking
+- ⚙️ Automation
+
+### Current Work
+
+Building and documenting security labs, infrastructure projects, tooling, and lessons learned along the way.
+
+---
+
+`rookxi`
