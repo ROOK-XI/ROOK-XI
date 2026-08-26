@@ -14,7 +14,6 @@
 
 I'm **Rook** — exploring cybersecurity through hands-on labs, infrastructure, security research, and CTFs.
 
-### Focus
 
 ### Focus
 
