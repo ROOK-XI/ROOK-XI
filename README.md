@@ -1,8 +1,16 @@
-# ROOK XI
+<p align="center">
+  <img src="./assets/rook-xi.png" width="220" alt="ROOK XI">
+</p>
 
-### Security • Infrastructure • CTF
+<h1 align="center">ROOK XI</h1>
 
-> **Building. Breaking. Learning.**
+<p align="center">
+  Security • Infrastructure • CTF
+</p>
+
+<p align="center">
+  <i>Building. Breaking. Learning.</i>
+</p>
 
 I'm **Rook** — exploring cybersecurity through hands-on labs, infrastructure, security research, and CTFs.
 
