@@ -16,12 +16,14 @@ I'm **Rook** — exploring cybersecurity through hands-on labs, infrastructure, 
 
 ### Focus
 
-- 🔐 Cybersecurity & security research
-- 🏗️ Infrastructure & homelab engineering
-- 🚩 Capture the Flag
-- 🐧 Linux
-- 🌐 Networking
-- ⚙️ Automation
+### Focus
+
+- Cybersecurity & Security Research
+- Infrastructure & Homelab Engineering
+- Capture the Flag
+- Linux
+- Networking
+- Automation
 
 ### Current Work
 
