@@ -30,4 +30,4 @@ Building and documenting security labs, infrastructure projects, tooling, and le
 
 ---
 
-`rookxi`
+`ROOK XI`
