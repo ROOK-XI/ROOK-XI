@@ -2,7 +2,7 @@
   <img src="rook-xi.png" width="220" alt="ROOK XI">
 </p>
 
-<h1 align="center">ROOK XI</h1>
+<h1 align="center">ROOK IV</h1>
 
 <p align="center">
   Security • Infrastructure • CTF
@@ -47,4 +47,4 @@ A read-only Docker security posture auditor written in Python.
 
 ---
 
-**ROOK XI**
+**ROOK IV**
