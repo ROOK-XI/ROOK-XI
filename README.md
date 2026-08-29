@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="rook-xi.png" width="220" alt="ROOK XI">
+  <img src="ROOKIV.png" width="400" alt="ROOK IV LOGO">
 </p>
 
 <h1 align="center">ROOK IV</h1>
